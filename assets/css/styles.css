@@ -96,7 +96,10 @@ aside a{
 
 .disciplinas div div p{
     font-size: 25px;
-    font-style: italic;
+}
+
+.disciplinas div div .disc{
+    text-decoration: underline;
 }
 
 .disciplinas div div p a{
